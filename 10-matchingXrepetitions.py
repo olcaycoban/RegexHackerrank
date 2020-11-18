@@ -1,4 +1,4 @@
-Regex_Pattern = r'^[A-Za-z2468]{40}[\s13579]$'	# Do not delete 'r'.
+Regex_Pattern = r'^[A-Za-z02468]{40}[\s13579]$'	# Do not delete 'r'.
 
 import re
 
